@@ -1,0 +1,10 @@
+gbce
+test
+debug
+log/
+files/*.gb
+files/*.gb.sav
+files/*.bin 
+files/*.asm 
+docs/
+*.o
